@@ -1,6 +1,11 @@
-# flutter_application_1
+# Growing Tree Animation 
 
-A new Flutter project.
+Package: rive: ^0.13.4
+Rive community : https://rive.app/community/files/798-1554-tree-demo/
+
+https://github.com/Muskan28kumari/GrowingTreeAnimation/assets/104787786/6588958b-3979-427b-b471-432ffbf5647f
+
+
 
 ## Getting Started
 
