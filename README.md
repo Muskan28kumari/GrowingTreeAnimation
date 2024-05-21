@@ -1,8 +1,15 @@
 # Growing Tree Animation 
 
-Package: rive: ^0.13.4
+# Package: 
+rive: ^0.13.4
+
+# community link : 
 Rive community : https://rive.app/community/files/798-1554-tree-demo/
 
+# websites: 
+Rive.App : https://rive.app/
+
+# demo video
 https://github.com/Muskan28kumari/GrowingTreeAnimation/assets/104787786/6588958b-3979-427b-b471-432ffbf5647f
 
 
